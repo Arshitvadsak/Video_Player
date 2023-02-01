@@ -1,7 +1,4 @@
 # videos_players
 
-<video width="320" height="240" controls>
-  <source src="C:\Users\ASUS\Desktop\Record_2023-02-01-09-33-37.mp4" type="video/mp4">
+https://user-images.githubusercontent.com/121868653/216017066-ce5fe2d4-7fdf-499e-8cb4-d1254a55a770.mp4
 
-  Your browser does not support the video tag.
-</video>
